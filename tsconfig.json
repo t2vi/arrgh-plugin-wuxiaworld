@@ -1,0 +1,4 @@
+{
+  "extends": "arrgh-plugin-sdk/tsconfig.base.json",
+  "include": ["src", "test"]
+}
